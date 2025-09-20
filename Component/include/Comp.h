@@ -1,8 +1,7 @@
 #ifdef COMPONENT_EXPORTS
-#define COMPONENT_API __declspec(dllexport)
+#define COMPONENT_DEF __declspec(dllexport)
 #else
-#define COMPONENT_API __declspec(dllimport)
+#define COMPONENT_DEF __declspec(dllimport)
 #endif
 
-// 외부에서 호출 가능한 함수임을 명시합니다.
-COMPONENT_API int add(int a, int b);
+COMPONENT_DEF int add(int a, int b);
