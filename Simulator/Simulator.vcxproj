@@ -19,12 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\PINLab\PINLab\Simulator\SRC\Sim.c" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\Component\Component.vcxproj">
       <Project>{9694de86-03a9-417e-a26f-0b7c48ba19b2}</Project>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SRC\Sim.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\PINLab\PINLab\Simulator\SRC\Sim.c">
+    <ClCompile Include="SRC\Sim.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\PINLab\PINLab\Component\src\Comp.c">
+    <ClCompile Include="src\Comp.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\PINLab\PINLab\Component\include\Comp.h">
+    <ClInclude Include="include\Comp.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

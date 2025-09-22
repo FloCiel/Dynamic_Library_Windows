@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\OneDrive\Desktop\PINLab\PINLab\Component\src\Comp.c" />
+    <ClCompile Include="src\Comp.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\OneDrive\Desktop\PINLab\PINLab\Component\include\Comp.h" />
+    <ClInclude Include="include\Comp.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
